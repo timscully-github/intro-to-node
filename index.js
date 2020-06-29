@@ -9,4 +9,4 @@ var mySuperheroName = superheroes.random();
 var mySupervillainName = supervillains.random();
 
 // test the package
-console.log("My Superhero name is " + mySuperheroName + ", but my Supervillain name is " + mySupervillainName);
+console.log("My Superhero name is " + mySuperheroName + ", but my Supervillain name is " + mySupervillainName + ".");
